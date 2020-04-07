@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+tensorflow
+scikit-learn
+pywin32
+typer[all]
+pylint
