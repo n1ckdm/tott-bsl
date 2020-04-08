@@ -1,8 +1,19 @@
 from app import app
 
-@app.command("My first command")
-def hello_world():
-    print("hello from typer")
+from app.commands import datasets
+from app.commands import model
+
+app.add_typer(
+    datasets.app,
+    name="datasets",
+    help="Record datasets for training"
+)
+
+app.add_typer(
+    model.app,
+    name="model",
+    help="Run the model"
+)
 
 if __name__ == "__main__":
     app()

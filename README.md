@@ -39,3 +39,15 @@ If everything has worked correctly you should be able to run the app:
 ```
 python -m app.bsl --help
 ```
+
+## Useful links
+
+* [Tharsus](https://www.tharsus.co.uk/)
+* [How to build a teachable machine](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
+* [Teachable Machine with Google](https://teachablemachine.withgoogle.com/)
+* [The Coding Train](https://thecodingtrain.com/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Scikit-Learn](https://scikit-learn.org/stable/)
+* [Typer](https://typer.tiangolo.com/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [BSL Fingerspelling Alphabet](https://www.british-sign.co.uk/fingerspelling-alphabet-charts/)
